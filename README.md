@@ -1,4 +1,3 @@
-# FalconMart Phase 15 - Production v3
-Real Auth Foundation + Seller/Admin/Orders/Wallet using Firebase Auth + Realtime Database.
-
-Upload/replace these files in GitHub root and Netlify will redeploy.
+# FalconMart Phase 15.1 Auth Key Fix
+Fixed Firebase config for project falconmart-5546f.
+Before testing: Firebase Console > Authentication > Sign-in method > Enable Email/Password.
