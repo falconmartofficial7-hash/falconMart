@@ -1,8 +1,7 @@
-// FalconMart Firebase config
-export const firebaseConfig = {
-  apiKey: "AIzaSyCoA3AOLd_ZOaZXssYcNeQbiEPtsU3O-BI",
+const firebaseConfig = {
+  apiKey: "AIzaSyCoA3A0Ld_ZOaZXssYcNeQbiEPtsU30-BI",
   authDomain: "falconmart-5546f.firebaseapp.com",
-  databaseURL: "https://falconmart-5546f-default-rtdb.firebaseio.com/",
+  databaseURL: "https://falconmart-5546f-default-rtdb.firebaseio.com",
   projectId: "falconmart-5546f",
   storageBucket: "falconmart-5546f.firebasestorage.app",
   messagingSenderId: "791417008821",
